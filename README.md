@@ -26,6 +26,8 @@ This is a digital doomsday preppers manifest. Here are some useful and free offl
 
 ### Geography
 
-* [OpenStreetMap Vector Tiles](https://openmaptiles.org/) -- Map layers (Streets, Satellite, ) based on [OpenStreetMap](https://www.openstreetmap.org) and other free maps data, which can be hosted locally for other devices access. You can create your own layers based on existing layers and data schema.
+* [OpenStreetMap Vector Tiles](https://openmaptiles.org/) -- Map layers based on [OpenStreetMap](https://www.openstreetmap.org) and other free maps data, which can be hosted locally for other devices access. You can create your own layers based on existing layers and data schema. (Most of layers need to be purchased, but at least we can download some free maps.)
+
+* [Using OpenStreetMap offline](https://wiki.openstreetmap.org/wiki/Using_OpenStreetMap_offline) -- Official guide.
 
 ## Entertainment
